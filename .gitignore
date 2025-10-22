@@ -1,0 +1,13 @@
+# Sensitive files - DO NOT COMMIT
+#credentials.json
+#token.pickle
+
+# Python
+gmail_env/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# OS
+.DS_Store
